@@ -1,0 +1,9 @@
+logging:
+  level: INFO
+  loggers:
+    com.internfoxmula: DEBUG
+
+mongoHost : localhost
+mongoPort : 27017
+mongoDB : softwaredevelopercentral
+collectionName: employees

@@ -1,0 +1,7 @@
+com\internfoxmula\dwmongo\dwMongoApplication.class
+com\internfoxmula\dwmongo\MongoManaged.class
+com\internfoxmula\dwmongo\dwMongoConfiguration.class
+com\internfoxmula\dwmongo\db\MongoService.class
+com\internfoxmula\dwmongo\resources\EmployeeResource.class
+com\internfoxmula\dwmongo\health\DropwizardMongoDBHealthCheckResource.class
+com\internfoxmula\dwmongo\api\Employee.class
